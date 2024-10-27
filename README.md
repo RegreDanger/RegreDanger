@@ -1,5 +1,5 @@
 ## Hi! I'm RegreDanger, a 17 years old dev.
-##🌱 Current Focus
+## Current Focus
 - Backend/Frontend Development and Task Automation.
 - Mobile App Development.
 - Data Analysis and Management projects.
