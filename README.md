@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi! I'm RegreDanger, a 17 years old dev.
+##🌱 Current Focus
+- Backend/Frontend Development and Task Automation.
+- Mobile App Development.
+- Data Analysis and Management projects.
 
+## Languages and Technologies
+- <img src="https://img.shields.io/badge/Python%20-%20v3.13%20-%20gray?logo=python&labelColor=white" height="40">
 <!--
 **RegreDanger/RegreDanger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
