@@ -18,7 +18,7 @@
     <img src="https://github.com/RegreDanger/RegreDanger/blob/main/assets/git.svg" width="50" height="50" alt="Git">
     <img src="https://github.com/RegreDanger/RegreDanger/blob/main/assets/vba.svg" width="50" height="50" alt="VBA">
     <img src="https://github.com/RegreDanger/RegreDanger/blob/main/assets/javascript.svg" width="50" height="50" alt="JavaScript">
-    <img src="https://github.com/RegreDanger/RegreDanger/blob/main/assets/html5.svg" width="50" height="30" alt="HTML5">
+    <img src="https://github.com/RegreDanger/RegreDanger/blob/main/assets/html5.svg" width="50" height="50" alt="HTML5">
     <img src="https://github.com/RegreDanger/RegreDanger/blob/main/assets/css.svg" width="50" height="50" alt="CSS">
     <img src="https://github.com/RegreDanger/RegreDanger/blob/main/assets/csharp.svg" width="50" height="50" alt="C#">
   </div>
