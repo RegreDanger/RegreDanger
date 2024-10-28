@@ -12,15 +12,15 @@
 <div align="center">
   <h2>Languages & Tools Used 💻</h2>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <img src="https://github.com/RegreDanger/RegreDanger/blob/main/assets/java.svg" width="100" height="100" alt="Java">
-    <img src="https://github.com/RegreDanger/RegreDanger/blob/main/assets/mysql.svg" width="100" height="100" alt="MySQL">
-    <img src="https://github.com/RegreDanger/RegreDanger/blob/main/assets/python.svg" width="100" height="100" alt="Python">
-    <img src="https://github.com/RegreDanger/RegreDanger/blob/main/assets/git.svg" width="100" height="100" alt="Git">
-    <img src="https://github.com/RegreDanger/RegreDanger/blob/main/assets/vba.svg" width="100" height="100" alt="VBA">
-    <img src="https://github.com/RegreDanger/RegreDanger/blob/main/assets/javascript.svg" width="100" height="100" alt="JavaScript">
-    <img src="https://github.com/RegreDanger/RegreDanger/blob/main/assets/html5.svg" width="100" height="100" alt="HTML5">
-    <img src="https://github.com/RegreDanger/RegreDanger/blob/main/assets/css.svg" width="100" height="100" alt="CSS">
-    <img src="https://github.com/RegreDanger/RegreDanger/blob/main/assets/csharp.svg" width="100" height="100" alt="C#">
+    <img src="https://github.com/RegreDanger/RegreDanger/blob/main/assets/java.svg" width="12" height="30" alt="Java">
+    <img src="https://github.com/RegreDanger/RegreDanger/blob/main/assets/mysql.svg" width="12" height="30" alt="MySQL">
+    <img src="https://github.com/RegreDanger/RegreDanger/blob/main/assets/python.svg" width="12" height="30" alt="Python">
+    <img src="https://github.com/RegreDanger/RegreDanger/blob/main/assets/git.svg" width="12" height="30" alt="Git">
+    <img src="https://github.com/RegreDanger/RegreDanger/blob/main/assets/vba.svg" width="12" height="30" alt="VBA">
+    <img src="https://github.com/RegreDanger/RegreDanger/blob/main/assets/javascript.svg" width="12" height="30" alt="JavaScript">
+    <img src="https://github.com/RegreDanger/RegreDanger/blob/main/assets/html5.svg" width="12" height="30" alt="HTML5">
+    <img src="https://github.com/RegreDanger/RegreDanger/blob/main/assets/css.svg" width="12" height="30" alt="CSS">
+    <img src="https://github.com/RegreDanger/RegreDanger/blob/main/assets/csharp.svg" width="12" height="30" alt="C#">
   </div>
 </div>
 
