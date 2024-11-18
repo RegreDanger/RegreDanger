@@ -5,7 +5,7 @@
 - Data Analysis and Management projects. 📊
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RegreDanger&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RegreDanger&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=transparent&langs_count=10" />
 </div>
 
 
