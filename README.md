@@ -1,8 +1,7 @@
 ## Hi! I'm RegreDanger, a 17-year-old developer driven by a love for tech and hands-on building.💻❤<br><br>Always eager to learn, improve, and create something new :D. 🚀
 ## Current Focus 💡
 - Backend/Frontend Development and Task Automation. ⚙
-- Mobile App Development. 📱
-- Data Analysis and Management projects. 📊
+- Data Analysis. 📊
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RegreDanger&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=transparent&langs_count=10" />
