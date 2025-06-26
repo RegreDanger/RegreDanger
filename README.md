@@ -1,4 +1,4 @@
-## Hi! I'm RegreDanger, a 17-year-old developer driven by a love for tech and hands-on building.💻❤<br><br>Always eager to learn, improve, and create something new :D. 🚀
+## Hi! I'm RegreDanger, a 18-year-old developer driven by a love for tech and hands-on building.💻❤<br><br>Always eager to learn, improve, and create something new :D. 🚀
 ## Current Focus 💡
 - Backend/Frontend Development and Task Automation. ⚙
 - Data Analysis. 📊
