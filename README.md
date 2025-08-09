@@ -11,15 +11,15 @@
 <div align="center">
   <h2>Languages & Tools Used 💻</h2>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <img src="https://github.com/RegreDanger/RegreDanger/blob/main/assets/java.svg" width="50" height="50" alt="Java">
-    <img src="https://github.com/RegreDanger/RegreDanger/blob/main/assets/mysql.svg" width="50" height="50" alt="MySQL">
-    <img src="https://github.com/RegreDanger/RegreDanger/blob/main/assets/python.svg" width="50" height="50" alt="Python">
-    <img src="https://github.com/RegreDanger/RegreDanger/blob/main/assets/git.svg" width="50" height="50" alt="Git">
-    <img src="https://github.com/RegreDanger/RegreDanger/blob/main/assets/vba.svg" width="50" height="50" alt="VBA">
-    <img src="https://github.com/RegreDanger/RegreDanger/blob/main/assets/javascript.svg" width="50" height="50" alt="JavaScript">
-    <img src="https://github.com/RegreDanger/RegreDanger/blob/main/assets/html5.svg" width="50" height="50" alt="HTML5">
-    <img src="https://github.com/RegreDanger/RegreDanger/blob/main/assets/css.svg" width="50" height="50" alt="CSS">
-    <img src="https://github.com/RegreDanger/RegreDanger/blob/main/assets/csharp.svg" width="50" height="50" alt="C#">
+    <img src="assets/java.svg" width="50" height="50" alt="Java">
+    <img src="assets/mysql.svg" width="50" height="50" alt="MySQL">
+    <img src="assets/python.svg" width="50" height="50" alt="Python">
+    <img src="assets/git.svg" width="50" height="50" alt="Git">
+    <img src="assets/vba.svg" width="50" height="50" alt="VBA">
+    <img src="assets/javascript.svg" width="50" height="50" alt="JavaScript">
+    <img src="assets/html5.svg" width="50" height="50" alt="HTML5">
+    <img src="assets/css.svg" width="50" height="50" alt="CSS">
+    <img src="assets/csharp.svg" width="50" height="50" alt="C#">
   </div>
 </div>
 
