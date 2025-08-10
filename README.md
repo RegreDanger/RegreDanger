@@ -3,7 +3,9 @@
   <img src="assets/titles_and_sections/user_name.svg" alt="user" style="vertical-align: middle;">
 </p>
   
-**`> Netrunner (Developer/Writer/Producer)`**
+**`> Netrunner | Digital explorer and code architect in the vast network of cyberspace`**
+
+**`> Roles: (Developer/Writer/Producer)`**
 
 **`> Location: Mexico | Age: 18`**
 
