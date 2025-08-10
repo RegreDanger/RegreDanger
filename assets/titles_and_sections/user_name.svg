@@ -5,7 +5,7 @@
       <feDropShadow dx="0" dy="0" stdDeviation="6" flood-color="#05d9e8" flood-opacity="0.4"/>
     </filter>
   </defs> 
-  <text x="10" y="50" fill="#05d9e8" font-family="Arial, sans-serif" font-weight="bold" font-size="32" filter="url(#neonGlow)">
+  <text x="10" y="42" fill="#05d9e8" font-family="Arial, sans-serif" font-weight="bold" font-size="32" filter="url(#neonGlow)">
     Hi! I'm RegreDanger
   </text>
 </svg>
