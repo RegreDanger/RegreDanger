@@ -1,160 +1,122 @@
-<p align="left">
-  <img src="assets/icons/user.svg" alt="user" width="40" height="40" style="vertical-align: middle;" />
-  <img src="assets/titles_and_sections/user_name.svg" alt="user" style="vertical-align: middle;">
-</p>
-  
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=regredanger&theme=crt&color=crimson&background=skyblue&pixelate_avatar=false">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=regredanger&theme=crt&color=crimson&background=skyblue&pixelate_avatar=false">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=regredanger&theme=crt&color=crimson&background=skyblue&pixelate_avatar=false">
+</picture>
+
+## `> Hi! I'm RegreDanger_`
 **`> Netrunner | Digital explorer and code architect in the vast network of cyberspace`**
 
 **`> Roles: (Developer/Writer/Producer)`**
 
-**`> Location: Mexico | Age: 18`**
+**`> Passionate about tech & software, always looking forward for building helpful and useful software`**
 
-**`> Passionate about tech, software, and building real solutions.`**
+I’m someone who explores systems deeply, understands how things connect, and learns by moving through layers rather than staying on the surface.
+For me, software isn’t just a career path or a checklist of skills — it’s a long-term practice.<br>
 
+My main strengths are backend development and data analysis, but my curiosity goes far beyond a single role. I’m currently studying frontend and game development, and I intentionally explore multiple areas of software over time, seeing learning as a continuous, lifelong process rather than something to rush, “finish,” or give an expiration date.<br>
 
-I’m a self-taught software engineer and a technical informatics student focused on continuous learning, experimenting, and creating projects that solve problems or spark joy.
+Right now, my focus is on building software that is genuinely useful, helpful, and meaningful. Code is a tool to help people, explore ideas, and create systems that make sense — not just a way to chase buzzwords or money.<br>
 
----
+StarVortex Technology is part of that mindset. It’s not a company, but a collective space where ideas, software, experiments, and creative projects live and evolve — a place to build, learn, and grow without forcing things into a corporate shape.<br>
 
-<p align="left">
-  <img src="assets/icons/working_on.svg" alt="working_on" width="40" height="40" style="vertical-align: middle;" />
-  <img src="assets/titles_and_sections/user_working_on.svg" alt="working_on" style="vertical-align: middle;" />
-</p>
+I build slowly when needed, think carefully before implementing, and value understanding over speed. Exploration, intention, and responsibility matter more to me than appearances.<br>
 
-- Backend & Frontend Development: Building APIs, web apps, and automations!<br>
-- Data Analysis & Visualization: Turning data into insights!<br>
-- Game Dev: Turning universes into games!
+Thanks for stopping by my profile! Feel free to explore my repos and reach out if you want to collaborate or chat tech!<br>
 
----
-
-<p align="left">
-  <img src="assets/icons/current_activity.svg" alt="current_activity" width="40" height="40" style="vertical-align: middle;" />
-  <img src="assets/titles_and_sections/user_current_activity.svg" alt="current_activity" style="vertical-align: middle;" />
-</p>
-
-I'm deeply involved in several ambitious projects that help me grow and improve as a developer. Here's a quick overview of what I'm working on and how I prioritize them:
-
-<p align="left">
-  <img src="assets/icons/current_projects.svg" alt="current_projects" width="40" height="40" style="vertical-align: middle;" />
-  <img src="assets/titles_and_sections/user_current_projects.svg" alt="current_projects" style="vertical-align: middle;" />
-</p>
-
-- **Memory Zero** — My main game currently in active development.  
-- **POS with DDD, Hexagonal & Clean Architecture** — Initial backend using Javalin and SQLite.  
-
-<p align="left">
-  <img src="assets/icons/queue_projects.svg" alt="queue_projects" width="40" height="40" style="vertical-align: middle;" />
-  <img src="assets/titles_and_sections/user_queue_projects.svg" alt="queue_projects" style="vertical-align: middle;" />
-</p>
-
-- License management backend (in development).  
-- Automated password generation system with customizable parameters.  
-- Improvements to my Python-based JAR launcher.  
-- Enhancements to an API for downloading music and other content.  
-
-<p align="left">
-  <img src="assets/icons/long_term_projects.svg" alt="long_term_projects" width="40" height="40" style="vertical-align: middle;" />
-  <img src="assets/titles_and_sections/user_long_term_projects.svg" alt="long_term_projects" style="vertical-align: middle;" />
-</p>
-
-- Database built solely using lists and maps — Long-term research and development (Skyedb).  
-
----
-
-If you want to know more about any of these, just ask or check out my repos when they're public.  
-I'm always learning and creating, and these projects reflect my passion and determination.
-
-
-<p align="left">
-  <img src="assets/icons/languages_and_tools.svg" alt="langs" width="40" height="40" style="vertical-align: middle;" />
-  <img src="assets/titles_and_sections/user_languages_and_tools.svg" alt="langs" style="vertical-align: middle;" />
-</p>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java" title="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" title="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" title="Git" />
-  <img src="assets/langs/vba.svg" width="50" height="50" alt="VBA" title="VBA" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS" title="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#" title="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="50" height="50" alt="Gdscript" title="Gdscript" />
-</div>
-
----
-
-<p align="left">
-  <img src="assets/icons/github_stats.svg" alt="stats" width="40" height="40" style="vertical-align: middle;" />
-  <img src="assets/titles_and_sections/user_github_stats.svg" alt="stats" style="vertical-align: middle;" />
-</p>
-
-<div align="center">
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=RegreDanger&show_icons=true&rank_icon=github&title_color=ff2a6d&icon_color=ff2a6d&text_color=05d9e8&bg_color=000000" 
-    alt="GitHub Stats" 
-    width="380"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RegreDanger&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=transparent&langs_count=10&layout=pie"
-    alt="Top Languages"
-    width="300"
-    style="margin-bottom: 20px;"
-  />
-
-</div>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 14px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: left; gap: 2px;">
   <a href="https://github.com/regredanger?tab=repositories&sort=stargazers">
     <img alt="Stars" title="Go to see my stars!" src="https://custom-icon-badges.demolab.com/github/stars/regredanger?logo=star_cyberpunk_1&style=for-the-badge&color=black&labelColor=black">
   </a>
 
   <a href="https://github.com/regredanger?tab=repositories&sort=stargazers">
-    <img alt="Stars" title="Go to see my stars!" src="https://custom-icon-badges.demolab.com/github/followers/regredanger?logo=follow_cyberpunk_1&style=for-the-badge&labelColor=black&color=black">
+    <img alt="Followers" title="My followers!" src="https://custom-icon-badges.demolab.com/github/followers/regredanger?logo=follow_cyberpunk_1&style=for-the-badge&labelColor=black&color=black">
+  </a>
+
+  <a href="https://www.youtube.com/@regredanger6389" target="_blank">
+      <img alt="YouTube" title="Check out my YouTube channel" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=YouTube&logoColor=red&labelColor=black&color=black">
+  </a>
+
+  <a href="mailto:carlosemiliogranadaperez@gmail.com">
+    <img alt="Gmail" title="Send any feedback to my Email!" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=red&labelColor=black&color=black">
   </a>
 </div>
+<br>
+
+![Danger Cyberpunk](./assets/danger.gif)
+
 
 ---
 
-<p align="left">
-  <img src="assets/icons/goals.svg" alt="goals" width="40" height="40" style="vertical-align: middle;" />
-  <img src="assets/titles_and_sections/user_goals.svg" alt="goals" style="vertical-align: middle;" />
-</p>
+# `> Languages & Tools_`
 
-- Master full-stack development and build my own software projects & startups.  
-- Grow StarVortex Technology and Echo Studios as my tech & game dev companies.  
-- Constantly improve my skills in cybersecurity, math, and programming.
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white)
 
----
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-<p align="left">
-  <img src="assets/icons/reach_me.svg" alt="reach_me" width="40" height="40" style="vertical-align: middle;" />
-  <img src="assets/titles_and_sections/user_reach.svg" alt="reach_me" style="vertical-align: middle;" />
-</p> 
+![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-<a href="https://www.youtube.com/@regredanger6389" target="_blank">
-    <img alt="YouTube" title="Check out my YouTube channel" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=YouTube&logoColor=red&labelColor=black&color=black">
-</a>
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-<a href="mailto:carlosemiliogranadaperez@gmail.com">
-  <img alt="Gmail" title="Send any feedback to my Email!" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=red&labelColor=black&color=black">
-</a>
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
----
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+![Stack Exchange](https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange)
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
-<p align="left">
-  <img src="assets/icons/details.svg" alt="details" width="40" height="40" style="vertical-align: middle;" />
-  <img src="assets/titles_and_sections/user_details.svg" alt="details" style="vertical-align: middle;" />
-</p> 
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
-I’m also a big fan of physics and math!  
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
----
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
-Thanks for stopping by my profile! Feel free to explore my repos and reach out if you want to collaborate or chat tech!
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 <!--
 **RegreDanger/RegreDanger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
