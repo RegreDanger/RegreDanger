@@ -4,8 +4,8 @@
   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=regredanger&theme=crt&color=crimson&background=skyblue&pixelate_avatar=false">
 </picture>
 
-## `Hi, I'm RegreDanger_ ⚙️`
-**`Netrunner | Real-Time Event-Driven Systems Developer`**
+## `> Hi, I'm RegreDanger_ ⚙️`
+**`> Netrunner | Real-Time Event-Driven Systems Developer`**
 
 My core is backend and data — but I don't stop there. I've moved through frontend, game development, cloud infrastructure, networking, and IoT not to collect skills, but because understanding how layers connect makes each one stronger. Curiosity drives me more than trends, and I see learning as something continuous, intentional, and without an expiration date.<br>
 
