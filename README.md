@@ -4,25 +4,16 @@
   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=regredanger&theme=crt&color=crimson&background=skyblue&pixelate_avatar=false">
 </picture>
 
-## `> Hi! I'm RegreDanger_`
-**`> Netrunner | Digital explorer and code architect in the vast network of cyberspace`**
+## `Hi, I'm RegreDanger_ ⚙️`
+**`Netrunner | Real-Time Event-Driven Systems Developer`**
 
-**`> Roles: (Developer/Writer/Producer)`**
+My core is backend and data — but I don't stop there. I've moved through frontend, game development, cloud infrastructure, networking, and IoT not to collect skills, but because understanding how layers connect makes each one stronger. Curiosity drives me more than trends, and I see learning as something continuous, intentional, and without an expiration date.<br>
 
-**`> Passionate about tech & software, always looking forward for building helpful and useful software`**
+I don't treat software like a factory line. For me it's closer to craft — I think carefully before I implement, move through layers until I understand what's really happening, and build things that make sense from the inside out, not just on the surface.<br>
 
-I’m someone who explores systems deeply, understands how things connect, and learns by moving through layers rather than staying on the surface.
-For me, software isn’t just a career path or a checklist of skills — it’s a long-term practice.<br>
+**StarVortex Technology** is my space for experiments, ideas, and projects that don't fit a corporate mold — a place where things get built because they're worth building.<br>
 
-My main strengths are backend development and data analysis, but my curiosity goes far beyond a single role. I’m currently studying frontend and game development, and I intentionally explore multiple areas of software over time, seeing learning as a continuous, lifelong process rather than something to rush, “finish,” or give an expiration date.<br>
-
-Right now, my focus is on building software that is genuinely useful, helpful, and meaningful. Code is a tool to help people, explore ideas, and create systems that make sense — not just a way to chase buzzwords or money.<br>
-
-StarVortex Technology is part of that mindset. It’s not a company, but a collective space where ideas, software, experiments, and creative projects live and evolve — a place to build, learn, and grow without forcing things into a corporate shape.<br>
-
-I build slowly when needed, think carefully before implementing, and value understanding over speed. Exploration, intention, and responsibility matter more to me than appearances.<br>
-
-Thanks for stopping by my profile! Feel free to explore my repos and reach out if you want to collaborate or chat tech!<br>
+Feel free to explore my repos! And if something I made helps you, or you just want to talk systems — I'm around.<br>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: left; gap: 2px;">
   <a href="https://github.com/regredanger?tab=repositories&sort=stargazers">
